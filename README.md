@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"> <br> Bienvenue sur mon profil GitHub !</h1>
+<h1 align="center">Hey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"> <br> Bienvenue sur mon profil Github !</h1>
 <p align="center">
   <a href="https://anthonin.fr"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Étudiant;Entrepreneur;Passionné;Sys+-+Net;Scripting"></a>
 </p>
