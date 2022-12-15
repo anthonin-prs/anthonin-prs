@@ -11,9 +11,7 @@
   
 - 🔭 En poste chez [BAW](https://www.b-a-w.com)  
   
-- 👨‍💻 Travaille sur des sujets **DevOps, Azure, Python, PowerShell**  
-   
--  Ask me about **Zabbix, Docker, Grafana, etc..**  
+- 👨‍💻 Travaille sur des sujets **DevOps, Azure, Python, Powershell**  
   
 - 🖥️ LAB : **ESXi, Grafana, Docker, Portainer, Nginx, OpenVPN, Python, Bash**  
 
