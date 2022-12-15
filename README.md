@@ -65,6 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anthonin-prs&show_icons=true&theme=dark"/>
 </p>
 
-<br>
+<h2> Contributions <img src="https://media0.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.gif?cid=790b7611035a038d779ed53d0056ab2405f4f2b49a1d4971&rid=giphy.gif&ct=s" alt="Anthonin" width="40" height="40" style="margin-left:15px; vertical-align:middle"/> </h2>
 
-![Anthonin Activity snake](dist/github-contribution-grid-snake-dark.svg)
+![Anthonin Activity snake](https://raw.githubusercontent.com/anthonin-prs/anthonin-prs/output/github-contribution-grid-snake.svg)
