@@ -7,7 +7,7 @@
  
 <h2> A propos <img src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="/" height="50" width="60" style="margin-left:15px; vertical-align:middle"/></h2>
 
-- 🌱 En formation sur **OpenStack, Kubernetes et Azure**  
+- 🌱 En formation sur **OpenStack & Ansible**  
   
 - 🔭 En poste chez [BAW](https://www.b-a-w.com)  
   
