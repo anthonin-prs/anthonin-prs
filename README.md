@@ -9,7 +9,7 @@
 
 - 🌱 En formation sur **...**  
   
-- 🔭 En poste chez [BAW](https://www.b-a-w.com)  
+- 🔭 En poste chez [Orisha](https://www.orisha.com/)  
   
 - 👨‍💻 Travaille sur des sujets **DevOps, Azure, Python, Powershell, Openstack**  
   
