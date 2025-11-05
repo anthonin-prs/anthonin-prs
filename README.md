@@ -11,9 +11,9 @@
   
 - 🔭 En poste chez [Orisha](https://www.orisha.com/)  
   
-- 👨‍💻 Travaille sur des sujets **DevOps, Azure, Python, Powershell, Openstack**  
+- 👨‍💻 Travaille sur des sujets **DevOps, Kubernetes, ArgoCD, Postgres, Azure, Python**  
   
-- 🖥️ LAB : **ESXi, Grafana, Docker, Portainer, Nginx, OpenVPN, Python, Bash**  
+- 🖥️ LAB : **ESXi, Grafana, Docker, Portainer, Nginx, Wireguard, HomeAssistant, Ubiquiti**  
 
 - 📫 Contact **presse@anthonin.fr**  
 
