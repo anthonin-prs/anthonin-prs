@@ -25,7 +25,7 @@
 <h2> Social <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="30" style="margin-left:15px; vertical-align:middle"> </h2>
 
 <a href="https://twitter.com/anth_prs">
-  <img src="https://img.shields.io/badge/@ant_prs-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
+  <img src="https://img.shields.io/badge/@anth_prs-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <img src="https://img.shields.io/badge/Ebenolt_\3040-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://www.linkedin.com/in/anthonin-presse/">
@@ -41,7 +41,10 @@
 ![Python](https://img.shields.io/badge/python-%233570A0.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![vmware](https://img.shields.io/badge/ESXi-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware](https://img.shields.io/badge/ESXi-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-%23607078.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23A81D33.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/argocd-%23A81D33.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/prometheus-%23A81D33.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230078D6.svg?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
